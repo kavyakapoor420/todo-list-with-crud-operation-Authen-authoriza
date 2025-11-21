@@ -42,3 +42,12 @@ nodemon app.js
 
 Node backend running at:
  http://localhost:5000
+
+
+
+## Api Testing using Postman proper jwt token verification during login signup workflow 
+
+ <img width="1186" height="719" alt="Screenshot 2025-11-21 at 4 45 56 PM" src="https://github.com/user-attachments/assets/b509ac27-7e2e-4101-8fde-0f1d21b4654c" />
+<img width="860" height="411" alt="Screenshot 2025-11-21 at 4 46 52 PM" src="https://github.com/user-attachments/assets/81537656-fd8d-45fd-8790-2be8193b8a4d" />
+## MOngodb storage of new user and notes stored  with hashed password 
+<img width="860" height="411" alt="Screenshot 2025-11-21 at 4 47 22 PM" src="https://github.com/user-attachments/assets/32736b6f-5c93-4a3f-a093-61c3b9dc91f7" />
