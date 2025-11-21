@@ -71,7 +71,7 @@ const Login = () => {
           </button>
         </form>
         <p className="mt-4 text-center font-bold">
-            No Access Pass? <Link to="/register" className="underline cursor-pointer hover:text-blue-600">Mint One</Link>
+            Dont have an Account? <Link to="/register" className="underline cursor-pointer hover:text-blue-600">Create One</Link>
         </p>
       </div>
     </div>

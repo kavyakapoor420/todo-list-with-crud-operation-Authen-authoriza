@@ -47,7 +47,7 @@ const Register = () => {
               value={name}
               onChange={(e) => setName(e.target.value)} 
               required
-              placeholder="Crypto King"
+              placeholder="hello world"
             />
           </div>
 
@@ -59,7 +59,7 @@ const Register = () => {
               value={email}
               onChange={(e) => setEmail(e.target.value)} 
               required
-              placeholder="wagmi@dao.com"
+              placeholder="hello123@gmail.com"
             />
           </div>
 
